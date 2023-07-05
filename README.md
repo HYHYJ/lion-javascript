@@ -6,9 +6,9 @@
 
 ### Basic
 - [x] CodeStructure [바로가기](http://www.naver.com)
-- [ ] Variable [바로가기](http://www.naver.com)
-- [ ] Strict Mode [바로가기](http://www.naver.com)
-- [ ] Global This [바로가기](http://www.naver.com)
-- [ ] Data Types [바로가기](http://www.naver.com)
+- [x] Variable [바로가기](http://www.naver.com)
+- [x] Strict Mode [바로가기](http://www.naver.com)
+- [x] Global This [바로가기](http://www.naver.com)
+- [x] Data Types [바로가기](http://www.naver.com)
 - [ ] Type Conversion [바로가기](http://www.naver.com)
   
