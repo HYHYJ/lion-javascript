@@ -217,6 +217,8 @@ console.log(findIndex);
 /* 요소 걸러내기 --------------------------- */
 
 //! ⭐filter : 조건에 부합하는 모든 애들을 배열로 담아서 반환
+//? 초기값을 지정해주지 않으면 people의 arr에 첫번째 객체가 와서 문자에 숫자를 접합하게 된다. [object Object]40305218
+//? 초기값(arr)을 0으로 지정해주면 0에다가 숫자를 더하게 된다.
 const filter = people.filter((item) => {
   return item.id > 2;
 });
