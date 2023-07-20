@@ -5,7 +5,7 @@ module.exports = {
     node: true,
   },
   extends: 'eslint:recommended',
-  globals: 'readOnly',
+  // globals: 'readOnly',
   overrides: [
     {
       env: {
